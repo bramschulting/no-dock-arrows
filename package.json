@@ -1,7 +1,7 @@
 {
   "name": "no-dock-arrows",
   "main": "./lib/no-dock-arrows",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Remove the new annoying dock arrows in Atom",
   "keywords": [],
   "repository": "https://github.com/bramschulting/no-dock-arrows",
